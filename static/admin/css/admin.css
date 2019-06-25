@@ -1590,6 +1590,7 @@
   width: 100%;
   height: 60px;
   background: #00b5f9 url(../images/logo.png) center center no-repeat;
+  background-size:100% 60px;
 }
 .main-layout-side .layui-nav {
   background: #444c63;
